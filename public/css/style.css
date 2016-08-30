@@ -1,0 +1,115 @@
+.site-logo{
+	color: ;
+	font-family: "Harrington";
+	font-size: 1.5em;
+}
+
+.news-item{
+	margin-bottom: 20px;
+}
+
+#main-container{
+	margin-top: 40px;
+}
+
+.newsitem-title{
+	font-size: 1.1em;
+}
+
+.newsitem-intro{
+	text-align: justify;
+}
+
+.news-nav li{
+	list-style: none;
+	display: inline;
+}
+
+.news-nav{
+	margin-top: 30px;
+	margin-left: -40px;
+}
+
+.news-nav a{
+	padding: 5px;
+	border:1px solid grey;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+label{
+	float: left;
+}
+
+.form-header{
+	font-size: 1.3em;
+}
+
+.signup-form-container{
+	margin-top: 180px;
+}
+
+#news-item-header{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#news-item-header h1{
+	font-size: 1.7em;
+}
+
+#news-item-body img{
+	padding-right: 20px;
+	padding-bottom: 20px;
+	height: 400px;
+	width: 600px;
+}
+
+#news-item-body{
+	text-align: justify;
+	margin-bottom: 50px;
+}
+
+#user-info p{
+	color: darkgoldenrod;
+}
+
+#admin-sidebar{
+	margin-top: 40px;
+}
+
+.menu{
+	margin-bottom: 40px;
+}
+
+.menu h3{
+	font-size: 1.1em;
+}
+
+.menu .action-link{
+	background: #5F9EA0;
+	padding: 4px;
+	color: white;
+	border-radius: 5px;
+	font-size: 0.9em;
+}
+
+.menu .delete-link{
+	background: #FF6347;
+	padding: 4px;
+	color: white;
+	border-radius: 5px;
+	font-size: 0.9em;
+}
+
+.menu-group{
+	margin-bottom: 30px;
+}
+
+#edit-form-container{
+	margin-top: 40px;
+}
+
+#edit-form-container img{
+	margin-bottom: 10px;
+}
